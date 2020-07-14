@@ -36,8 +36,6 @@ ms.locfileid: "85448337"
 > [!IMPORTANT]
 > 无论你是否使用 Windows 身份验证，都需要选择“Internet (客户端和服务器)”、“Internet (客户端)”和“私有网络(客户端和服务器)”  。
 
-<a id="use-data" />
-
 ## <a name="add-and-retrieve-data-in-a-sql-server-database"></a>在 SQL Server 数据库中添加和检索数据
 
 在本节中，我们将执行以下操作：
