@@ -171,7 +171,7 @@ using Microsoft.Data.Sqlite;
 using System.Collections.Generic;
 ```
 
-<a id="initialize" />
+
 
 ### <a name="initialize-the-sqlite-database"></a>初始化 SQLite 数据库
 
@@ -215,7 +215,7 @@ public App()
 }
 ```
 
-<a id="insert" />
+
 
 ### <a name="insert-data-into-the-sqlite-database"></a>将数据插入到 SQLite 数据库
 
@@ -245,7 +245,7 @@ public static void AddData(string inputText)
 }
 ```
 
-<a id="retrieve" />
+
 
 ### <a name="retrieve-data-from-the-sqlite-database"></a>从 SQLite 数据库检索数据
 
